@@ -1,4 +1,4 @@
-# ⏱️ Focus To-Do Extension (Offline Build)
+# ⏱️ Focus To-Do Extension(free offline version)
 
 A local-first, offline-ready build of the Focus To-Do browser extension.
 
